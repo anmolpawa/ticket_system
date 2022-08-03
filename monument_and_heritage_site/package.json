@@ -1,5 +1,6 @@
 {
   "name": "monument_and_heritage_site",
+  "homepage": "https://anmolpawa.github.io/monument_and_heritage_site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +11,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "react-slick": "^0.29.0",
     "scrollreveal": "^4.0.9",
     "slick-carousel": "^1.8.1",
@@ -18,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
