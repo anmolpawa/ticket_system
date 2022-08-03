@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ticket_system/static/css/main.967a31e5.css",
+    "main.js": "/ticket_system/static/js/main.c029e3d9.js",
+    "static/media/AjantaCaves.png": "/ticket_system/static/media/AjantaCaves.e88d79ecfc80e7708439.png",
+    "static/media/RedFort.png": "/ticket_system/static/media/RedFort.9f62f9ca606b9159e59c.png",
+    "static/media/Khajuraho.png": "/ticket_system/static/media/Khajuraho.43b35be61782f0e7b6b2.png",
+    "static/media/QutubMinar.png": "/ticket_system/static/media/QutubMinar.8b33e929d4559075b453.png",
+    "static/media/TajMahal.png": "/ticket_system/static/media/TajMahal.b214e4f55df80bff9655.png",
+    "static/media/StatueOfUnity.png": "/ticket_system/static/media/StatueOfUnity.1791534f41e6ecbbf2ac.png",
+    "static/media/Taj Mahal hero.jpg": "/ticket_system/static/media/Taj Mahal hero.34714d67395f143cac5a.jpg",
+    "index.html": "/ticket_system/index.html",
+    "main.967a31e5.css.map": "/ticket_system/static/css/main.967a31e5.css.map",
+    "main.c029e3d9.js.map": "/ticket_system/static/js/main.c029e3d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967a31e5.css",
+    "static/js/main.c029e3d9.js"
+  ]
+}
